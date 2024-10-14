@@ -25,7 +25,7 @@
   </a>
   </a>
     <a href="https://www.kali.org/docs/" target="_blank" rel="noreferrer">
-    <img src="https://korben.info/app/uploads/2018/03/1920x1080_px_Kali_Linux_Kali_Linux_NetHunter_Linux-1201633.jpgd_.jpg" alt="kali" width="40" height="40"/>
+    <img src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/08/kali-linux-dragon-logo.png" alt="kali" width="40" height="40"/>
   </a>
     </a>
     <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer">
